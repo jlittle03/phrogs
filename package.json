@@ -1,5 +1,5 @@
 {
-  "name": "week13",
+  "name": "phrogs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlittle03/week13.git"
+    "url": "git+https://github.com/jlittle03/phrogs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jlittle03/week13/issues"
+    "url": "https://github.com/jlittle03/phrogs/issues"
   },
-  "homepage": "https://github.com/jlittle03/week13#readme",
+  "homepage": "https://github.com/jlittle03/phrogs#readme",
   "description": "",
   "devDependencies": {
     "css-loader": "^7.1.2",
