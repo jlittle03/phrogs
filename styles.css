@@ -1,11 +1,6 @@
 body {
-    background-color: white;
+    background-color: lightgreen;
     display:flex;
-    justify-content: right;
-    align-items: center;
-    flex-direction: row;
-    flex: 1 0;   
-    font-family: sans-serif;
 }
 
 a {
@@ -16,6 +11,22 @@ a {
     width:100px;
     height:25px;
     font-size: large;
-    background-color: darkgreen;
-    border-radius: 5px;
+}
+
+.header{
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex: 1 0;   
+    font-family: sans-serif;
+}
+
+.title{
+    margin: 15px;
+    display:block;
+    padding: 10px;
+    text-align: center;
+    width:500px;
+    height:25px;
+    font-size: large;
 }
